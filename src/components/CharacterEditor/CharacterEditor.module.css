@@ -4,6 +4,7 @@
 }
 
 .maxWidthWrapper {
+  position: relative;
 }
 
 .header {
@@ -41,5 +42,5 @@
   height: 40vh;
   width: 100%;
   background-color: hsl(195deg, 20%, 86%);
-  z-index: -1;
+  /* z-index: -1; */
 }
