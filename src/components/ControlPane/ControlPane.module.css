@@ -11,6 +11,9 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  /* scroll overflow horizontally */
+  overflow: auto;
+  white-space: nowrap;
 }
 
 .title {
